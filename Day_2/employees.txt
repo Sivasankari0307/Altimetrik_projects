@@ -1,5 +1,0 @@
-ID, Name, Dept, Salary
-101, Siva, DS, 50000
-102, Iniya, Bio-tech, 60000
-103, Sam, DA, 70000
-104, Sankari, HR, 62000
